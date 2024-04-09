@@ -41,6 +41,9 @@ function Paso4({ formData, handleChange }) {
           placeholder="+57 3505297452"
           required
         />
+        <p className="terminosycondiciones
+        ">Al continuar, estoy aceptando los <a href="https://petfly.io/terminos-y-condiciones/" target="_blank">términos y condiciones</a> y la <a href="https://petfly.io/politica-privacidad/" target="_blank">declaración de privacidad</a>.</p>
+
       </div>
     </>
   );
